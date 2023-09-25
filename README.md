@@ -1,4 +1,4 @@
-# IDS706-Python-Template
+# IDS706_Fall2023_mini_Project_4_Matrix_Build
 [![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/cicd.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/cicd.yml)
 
 [![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/python-matrix.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/python-matrix.yml)
@@ -10,10 +10,10 @@ To set up the project, simply run make all or run make install and make test.
 
 ## Github Actions Demo For Matrix Build
 In this project, the python-matrix contains matrix strategy to build and test the code across multiple Python versions, as shown below:
-![Alt text](image.png)
+![Alt text](demo-images/matrix-yml.png)
 
 When you run the workflow, it will show whether the current code is compatible with Python version 3.7, 3.8 and 3.9
-![Alt text](image-1.png)
+![Alt text](demo-images/workflow.png)
 
 
 ## Features
