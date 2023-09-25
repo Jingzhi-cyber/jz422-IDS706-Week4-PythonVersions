@@ -1,5 +1,7 @@
 # IDS706-Python-Template
-[![CI](https://github.com/Jingzhi-cyber/IDS706-Python-Template/actions/workflows/cicd.yml/badge.svg)](https://github.com/Jingzhi-cyber/IDS706-Python-Template/actions/workflows/cicd.yml)
+[![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/cicd.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/cicd.yml)
+
+[![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/python-matrix.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-Week4-PythonVersions/actions/workflows/python-matrix.yml)
 
 This repository sets up an environment on CodeSpaces and uses GitHub Actions to run a Makefile for the following commands: make install, make test, make format, and make lint.
 
